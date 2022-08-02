@@ -1,0 +1,11 @@
+body{
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+canvas {
+	
+	position: absolute;
+	top: 0;
+	left: 0;
+}
